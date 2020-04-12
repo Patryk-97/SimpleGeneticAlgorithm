@@ -1,0 +1,4517 @@
+
+----------------------------------
+
+0 pokolenie
+0001000 
+0001111 
+0111000 
+1010010 
+0100001 
+1110110 
+1011001 
+0101000 
+Suma: 69382
+Kolo ruletki:
+0.000000 0.010000 0.040000 0.090000 0.180000 0.370000 0.600000 1.000000 
+Wektor selekcji:
+P: 0.612714
+P: 0.377423
+P: 0.285005
+P: 0.185813
+P: 0.714101
+P: 0.010013
+P: 0.439901
+P: 0.920689
+0: 0
+1: 0
+2: 0
+3: 2
+4: 1
+5: 3
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 0100001 1011001 1010010 1010010 1011001 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.113238
+Locus 3
+Tymaczasowy osobnik: 0100001
+Krzyzowanie: 0.497631
+Locus 4
+Tymaczasowy osobnik: 1010010
+Krzyzowanie: 0.869535
+Tymaczasowy osobnik: 1011001
+Krzyzowanie: 0.599979
+Locus 1
+
+----------------------------------
+
+1 pokolenie
+1110110 
+1110110 
+0100001 
+1011001 
+1010010 
+1010010 
+1110110 
+1011001 
+Suma: 144318
+Kolo ruletki:
+0.020000 0.110000 0.200000 0.310000 0.420000 0.610000 0.800000 0.990000 
+Wektor selekcji:
+P: 0.030581
+P: 0.788179
+P: 0.232591
+P: 0.922387
+P: 0.040431
+P: 0.292533
+P: 0.962540
+P: 0.798167
+0: 0
+1: 2
+2: 0
+3: 2
+4: 2
+5: 0
+6: 2
+7: 0
+Nowa populacja:
+1011001 1110110 1110110 1110110 1011001 1010010 1110110 1010010 
+Tymaczasowy osobnik: 1011001
+Krzyzowanie: 0.295187
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.793688
+Locus 4
+Tymaczasowy osobnik: 1011001
+Krzyzowanie: 0.180172
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.562323
+Locus 0
+
+----------------------------------
+
+2 pokolenie
+1110110 
+1010001 
+1110110 
+1110110 
+1110010 
+1011001 
+0010010 
+1110110 
+Suma: 169988
+Kolo ruletki:
+0.080000 0.160000 0.250000 0.340000 0.500000 0.660000 0.820000 0.980000 
+Wektor selekcji:
+P: 0.352644
+P: 0.037545
+P: 0.971333
+P: 0.901459
+P: 0.602807
+P: 0.475110
+P: 0.885891
+P: 0.309610
+0: 2
+1: 0
+2: 1
+3: 0
+4: 1
+5: 1
+6: 0
+7: 3
+Nowa populacja:
+1110110 1110010 1110110 1110110 1110110 1011001 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.128159
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.930285
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.673323
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.158404
+Locus 0
+
+----------------------------------
+
+3 pokolenie
+1110010 
+1110110 
+1110110 
+1110110 
+1011001 
+1110110 
+1110110 
+1110110 
+Suma: 208938
+Kolo ruletki:
+0.080000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.980000 
+Wektor selekcji:
+P: 0.098240
+P: 0.591815
+P: 0.149148
+P: 0.564907
+P: 0.648222
+P: 0.530221
+P: 0.168513
+P: 0.114793
+0: 4
+1: 0
+2: 0
+3: 2
+4: 0
+5: 2
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110010 1110010 1110110 1110010 1110010 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.792430
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.766127
+Locus 5
+Tymaczasowy osobnik: 1110010
+Krzyzowanie: 0.061707
+Locus 0
+Tymaczasowy osobnik: 1110010
+Krzyzowanie: 0.855726
+
+----------------------------------
+
+4 pokolenie
+1110110 
+1110110 
+1110100 
+1110011 
+1110110 
+1110010 
+1110010 
+1110010 
+Suma: 215376
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.610000 0.740000 0.870000 1.000000 
+Wektor selekcji:
+P: 0.820864
+P: 0.733195
+P: 0.015328
+P: 0.110252
+P: 0.737578
+P: 0.455714
+P: 0.674738
+P: 0.701627
+0: 0
+1: 4
+2: 1
+3: 2
+4: 0
+5: 0
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110010 1110011 1110011 1110110 1110100 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.948997
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.156397
+Locus 6
+Tymaczasowy osobnik: 1110011
+Krzyzowanie: 0.850747
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.813568
+
+----------------------------------
+
+5 pokolenie
+1110111 
+1110110 
+1110100 
+1110010 
+1110011 
+1110011 
+1110110 
+1110100 
+Suma: 217232
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.490000 0.620000 0.750000 0.880000 1.010000 
+Wektor selekcji:
+P: 0.587584
+P: 0.092887
+P: 0.960003
+P: 0.793428
+P: 0.748820
+P: 0.580787
+P: 0.261283
+P: 0.640047
+0: 0
+1: 2
+2: 2
+3: 1
+4: 0
+5: 1
+6: 1
+7: 1
+Nowa populacja:
+1110011 1110100 1110110 1110110 1110010 1110100 1110110 1110100 
+Tymaczasowy osobnik: 1110011
+Krzyzowanie: 0.643464
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.344799
+Locus 5
+Tymaczasowy osobnik: 1110010
+Krzyzowanie: 0.001840
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.399787
+Locus 2
+
+----------------------------------
+
+6 pokolenie
+1010100 
+1010011 
+1110110 
+1110110 
+1110000 
+1110110 
+1110100 
+1110110 
+Suma: 216770
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.610000 0.740000 0.870000 1.000000 
+Wektor selekcji:
+P: 0.055291
+P: 0.371474
+P: 0.086758
+P: 0.262825
+P: 0.674150
+P: 0.118351
+P: 0.406091
+P: 0.463822
+0: 3
+1: 0
+2: 0
+3: 1
+4: 1
+5: 0
+6: 3
+7: 0
+Nowa populacja:
+1110100 1010100 1110100 1110000 1010100 1110110 1110100 1010100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.527399
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.880764
+Tymaczasowy osobnik: 1010100
+Krzyzowanie: 0.524202
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.776886
+Locus 0
+
+----------------------------------
+
+7 pokolenie
+1110100 
+1010100 
+1110100 
+1110000 
+1010110 
+1110100 
+1010100 
+1110100 
+Suma: 175768
+Kolo ruletki:
+0.080000 0.160000 0.240000 0.380000 0.530000 0.680000 0.830000 0.980000 
+Wektor selekcji:
+P: 0.088196
+P: 0.614377
+P: 0.853789
+P: 0.994211
+P: 0.154826
+P: 0.690089
+P: 0.810998
+P: 0.114632
+0: 0
+1: 0
+2: 1
+3: 0
+4: 3
+5: 2
+6: 0
+7: 2
+Nowa populacja:
+1010110 1110100 1010110 1110100 1110100 1010110 1110100 1110100 
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.061170
+Locus 3
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.583570
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.251610
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.055814
+Locus 6
+
+----------------------------------
+
+8 pokolenie
+1010100 
+1110110 
+1010100 
+1110110 
+1110110 
+1010100 
+1110100 
+1110100 
+Suma: 179720
+Kolo ruletki:
+0.080000 0.160000 0.240000 0.390000 0.540000 0.690000 0.840000 0.990000 
+Wektor selekcji:
+P: 0.989565
+P: 0.118678
+P: 0.946892
+P: 0.312573
+P: 0.998590
+P: 0.764744
+P: 0.878172
+P: 0.810717
+0: 0
+1: 1
+2: 1
+3: 0
+4: 0
+5: 0
+6: 2
+7: 4
+Nowa populacja:
+1110100 1110100 1110100 1110100 1010100 1110100 1110100 1110110 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.764308
+Locus 5
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.258719
+Locus 5
+Tymaczasowy osobnik: 1010100
+Krzyzowanie: 0.141831
+Locus 4
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.648476
+Locus 2
+
+----------------------------------
+
+9 pokolenie
+1110100 
+1110100 
+1110100 
+1110100 
+1010100 
+1110100 
+1100110 
+1110100 
+Suma: 203448
+Kolo ruletki:
+0.070000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.990000 
+Wektor selekcji:
+P: 0.805581
+P: 0.629981
+P: 0.557457
+P: 0.492255
+P: 0.728776
+P: 0.528798
+P: 0.538425
+P: 0.736157
+0: 0
+1: 0
+2: 0
+3: 4
+4: 0
+5: 1
+6: 0
+7: 3
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.232511
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.048219
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.598765
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.997013
+
+----------------------------------
+
+10 pokolenie
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+Suma: 215312
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.843302
+P: 0.875391
+P: 0.703728
+P: 0.234411
+P: 0.362703
+P: 0.616909
+P: 0.395999
+P: 0.735812
+0: 0
+1: 1
+2: 1
+3: 1
+4: 1
+5: 2
+6: 2
+7: 0
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.568977
+Locus 4
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.610959
+Locus 1
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.883295
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.326802
+Locus 0
+
+----------------------------------
+
+11 pokolenie
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+Suma: 215312
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.395009
+P: 0.155651
+P: 0.185221
+P: 0.023938
+P: 0.903074
+P: 0.168092
+P: 0.020833
+P: 0.030378
+0: 3
+1: 3
+2: 0
+3: 1
+4: 0
+5: 0
+6: 1
+7: 0
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.630126
+Locus 4
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.797368
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.714350
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.896155
+
+----------------------------------
+
+12 pokolenie
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110000 
+1110100 
+1110100 
+Suma: 215312
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.127599
+P: 0.848490
+P: 0.566968
+P: 0.810379
+P: 0.677978
+P: 0.495057
+P: 0.313943
+P: 0.088732
+0: 2
+1: 0
+2: 1
+3: 1
+4: 1
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1110000 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.846892
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.179924
+Locus 1
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.064879
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.172237
+Locus 5
+
+----------------------------------
+
+13 pokolenie
+1110100 
+1111100 
+1110100 
+1110100 
+1110100 
+1110000 
+1110100 
+1110100 
+Suma: 213488
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.142632
+P: 0.105400
+P: 0.299617
+P: 0.237560
+P: 0.497450
+P: 0.440330
+P: 0.923298
+P: 0.623371
+0: 2
+1: 1
+2: 2
+3: 1
+4: 0
+5: 1
+6: 0
+7: 1
+Nowa populacja:
+1110100 1110100 1110100 1111100 1110100 1110000 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.321923
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.815645
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.522567
+Locus 4
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.807066
+
+----------------------------------
+
+14 pokolenie
+1110100 
+1110100 
+1110100 
+1111100 
+1110000 
+1110100 
+1110100 
+1110100 
+Suma: 213488
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.694983
+P: 0.562779
+P: 0.655520
+P: 0.965417
+P: 0.857602
+P: 0.982066
+P: 0.416724
+P: 0.267252
+0: 0
+1: 1
+2: 1
+3: 1
+4: 0
+5: 2
+6: 1
+7: 2
+Nowa populacja:
+1110100 1110100 1110100 1111100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.131624
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.393912
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.151380
+Locus 0
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.461910
+Locus 0
+
+----------------------------------
+
+15 pokolenie
+1110100 
+1110100 
+1110100 
+1111100 
+1110100 
+1110100 
+1110100 
+1110110 
+Suma: 219152
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.049597
+P: 0.949454
+P: 0.671008
+P: 0.658062
+P: 0.134101
+P: 0.841270
+P: 0.327904
+P: 0.765297
+0: 1
+1: 1
+2: 1
+3: 2
+4: 0
+5: 0
+6: 2
+7: 1
+Nowa populacja:
+1110110 1111100 1111100 1110100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.088438
+Locus 5
+Tymaczasowy osobnik: 1111100
+Krzyzowanie: 0.598020
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.995342
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.903620
+
+----------------------------------
+
+16 pokolenie
+1110100 
+1111110 
+1111100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+Suma: 223992
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.663180
+P: 0.340636
+P: 0.633307
+P: 0.394087
+P: 0.875502
+P: 0.218843
+P: 0.067656
+P: 0.317644
+0: 1
+1: 0
+2: 1
+3: 1
+4: 2
+5: 1
+6: 0
+7: 2
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1110100 1111100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.947710
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.404345
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.954898
+Tymaczasowy osobnik: 1111100
+Krzyzowanie: 0.120248
+Locus 0
+
+----------------------------------
+
+17 pokolenie
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+1111100 
+Suma: 219152
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.768988
+P: 0.842993
+P: 0.740421
+P: 0.221284
+P: 0.189289
+P: 0.490055
+P: 0.160915
+P: 0.923907
+0: 0
+1: 3
+2: 0
+3: 0
+4: 1
+5: 0
+6: 2
+7: 2
+Nowa populacja:
+1110100 1111100 1110100 1111100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.149789
+Locus 6
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.289111
+Locus 0
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.671630
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.892627
+
+----------------------------------
+
+18 pokolenie
+1110100 
+1111100 
+1111100 
+1110100 
+1110100 
+1110100 
+1110100 
+1111100 
+Suma: 222992
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.597865
+P: 0.951694
+P: 0.195499
+P: 0.257794
+P: 0.877959
+P: 0.896141
+P: 0.278006
+P: 0.605609
+0: 0
+1: 0
+2: 3
+3: 1
+4: 2
+5: 0
+6: 1
+7: 1
+Nowa populacja:
+1111100 1111100 1110100 1111100 1110100 1111100 1110100 1110100 
+Tymaczasowy osobnik: 1111100
+Krzyzowanie: 0.015283
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.757844
+Locus 0
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.183538
+Locus 0
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.738051
+Locus 0
+
+----------------------------------
+
+19 pokolenie
+1111100 
+1110100 
+1111100 
+1110100 
+1111000 
+1110100 
+1110100 
+1110100 
+Suma: 230672
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.610000 0.740000 0.870000 1.000000 
+Wektor selekcji:
+P: 0.044356
+P: 0.406784
+P: 0.278434
+P: 0.592658
+P: 0.579757
+P: 0.410753
+P: 0.736010
+P: 0.087957
+0: 2
+1: 1
+2: 0
+3: 2
+4: 0
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1110100 1110100 1110100 1111100 1110100 1110100 1111100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.569317
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.516403
+Locus 1
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.618289
+Locus 0
+Tymaczasowy osobnik: 1111100
+Krzyzowanie: 0.665233
+Locus 4
+
+----------------------------------
+
+20 pokolenie
+1110100 
+1010100 
+1111100 
+1110100 
+1110100 
+1110100 
+1111100 
+1110100 
+Suma: 222992
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.048756
+P: 0.426886
+P: 0.175119
+P: 0.117694
+P: 0.492379
+P: 0.678809
+P: 0.582485
+P: 0.090853
+0: 3
+1: 1
+2: 0
+3: 0
+4: 1
+5: 2
+6: 0
+7: 1
+Nowa populacja:
+1110100 1110100 1110100 1110100 1110100 1010100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.049331
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.981727
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.694566
+Locus 5
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.710662
+Locus 0
+
+----------------------------------
+
+21 pokolenie
+1110100 
+1110100 
+1110000 
+1110100 
+0110100 
+1010100 
+1110100 
+1110100 
+Suma: 202512
+Kolo ruletki:
+0.070000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.980000 
+Wektor selekcji:
+P: 0.243809
+P: 0.854142
+P: 0.744119
+P: 0.506405
+P: 0.795131
+P: 0.212649
+P: 0.642034
+P: 0.087270
+0: 1
+1: 2
+2: 0
+3: 1
+4: 1
+5: 0
+6: 2
+7: 1
+Nowa populacja:
+0110100 1110100 1110100 1110100 1110100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 0110100
+Krzyzowanie: 0.200630
+Locus 4
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.014904
+Locus 1
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.995235
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.629107
+Locus 0
+
+----------------------------------
+
+22 pokolenie
+0110100 
+1110100 
+1010100 
+1110100 
+1110100 
+1110100 
+1110100 
+1110100 
+Suma: 193808
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.512559
+P: 0.751097
+P: 0.393365
+P: 0.139349
+P: 0.082611
+P: 0.669341
+P: 0.206077
+P: 0.783714
+0: 0
+1: 2
+2: 1
+3: 1
+4: 1
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110100 1110100 1110100 1110100 1010100 1110100 1110100 1110100 
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.230315
+Locus 1
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.831215
+Tymaczasowy osobnik: 1010100
+Krzyzowanie: 0.159846
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.724169
+Locus 6
+
+----------------------------------
+
+23 pokolenie
+1110100 
+1110100 
+1110110 
+1110100 
+1010100 
+0110100 
+1010100 
+1110100 
+Suma: 202512
+Kolo ruletki:
+0.070000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.980000 
+Wektor selekcji:
+P: 0.596349
+P: 0.096455
+P: 0.390404
+P: 0.593701
+P: 0.409810
+P: 0.261308
+P: 0.450591
+P: 0.365026
+0: 1
+1: 1
+2: 4
+3: 0
+4: 0
+5: 2
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110100 1110110 0110100 1110110 1110100 1110110 0110100 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.947089
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.471700
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.657677
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.281188
+Locus 0
+
+----------------------------------
+
+24 pokolenie
+1110110 
+1110100 
+1110100 
+0110110 
+1110100 
+1110110 
+0110100 
+1110110 
+Suma: 174600
+Kolo ruletki:
+0.030000 0.060000 0.210000 0.360000 0.510000 0.660000 0.820000 0.980000 
+Wektor selekcji:
+P: 0.708801
+P: 0.813157
+P: 0.084267
+P: 0.873611
+P: 0.079885
+P: 0.827127
+P: 0.210877
+P: 0.083127
+0: 3
+1: 1
+2: 0
+3: 0
+4: 0
+5: 2
+6: 0
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110100 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.486221
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.938742
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.653343
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.086556
+Locus 3
+
+----------------------------------
+
+25 pokolenie
+1110110 
+1110110 
+1110110 
+1110101 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 220928
+Kolo ruletki:
+0.120000 0.240000 0.370000 0.500000 0.630000 0.760000 0.890000 1.020000 
+Wektor selekcji:
+P: 0.978892
+P: 0.966400
+P: 0.930202
+P: 0.689012
+P: 0.984989
+P: 0.968192
+P: 0.008834
+P: 0.288393
+0: 1
+1: 0
+2: 1
+3: 0
+4: 0
+5: 1
+6: 0
+7: 5
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.831064
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.854684
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.597295
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.735215
+Locus 2
+
+----------------------------------
+
+26 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 221864
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.329730
+P: 0.807327
+P: 0.085022
+P: 0.457766
+P: 0.203160
+P: 0.589215
+P: 0.430501
+P: 0.191765
+0: 2
+1: 1
+2: 2
+3: 1
+4: 1
+5: 0
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.035035
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.084789
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.837768
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.237509
+Locus 6
+
+----------------------------------
+
+27 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.877930
+P: 0.927762
+P: 0.958628
+P: 0.211304
+P: 0.153417
+P: 0.996568
+P: 0.048395
+P: 0.542538
+0: 1
+1: 2
+2: 0
+3: 0
+4: 1
+5: 0
+6: 1
+7: 3
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.917037
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.419862
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.979357
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.446423
+Locus 6
+
+----------------------------------
+
+28 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.120719
+P: 0.304049
+P: 0.372194
+P: 0.299062
+P: 0.046024
+P: 0.909764
+P: 0.838132
+P: 0.679613
+0: 2
+1: 0
+2: 3
+3: 0
+4: 0
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.890958
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.344733
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.292971
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.083958
+Locus 0
+
+----------------------------------
+
+29 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.455457
+P: 0.957355
+P: 0.559072
+P: 0.591837
+P: 0.493958
+P: 0.980453
+P: 0.580266
+P: 0.876366
+0: 0
+1: 0
+2: 0
+3: 2
+4: 3
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.696649
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.452124
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.423546
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.332692
+Locus 2
+
+----------------------------------
+
+30 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.831214
+P: 0.785172
+P: 0.286834
+P: 0.231362
+P: 0.482889
+P: 0.616083
+P: 0.833403
+P: 0.583412
+0: 0
+1: 1
+2: 1
+3: 1
+4: 2
+5: 0
+6: 3
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.735918
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.050504
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.434707
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.664046
+Locus 1
+
+----------------------------------
+
+31 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.072122
+P: 0.552499
+P: 0.496161
+P: 0.850187
+P: 0.064360
+P: 0.499943
+P: 0.140671
+P: 0.424181
+0: 2
+1: 1
+2: 0
+3: 3
+4: 1
+5: 0
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 0110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.573871
+Locus 6
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.571329
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.415230
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.952341
+
+----------------------------------
+
+32 pokolenie
+1110110 
+1110110 
+0110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 200784
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.214395
+P: 0.478402
+P: 0.438137
+P: 0.784575
+P: 0.348855
+P: 0.714189
+P: 0.799819
+P: 0.215009
+0: 0
+1: 2
+2: 0
+3: 2
+4: 1
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.525200
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.072990
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.235364
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.216515
+Locus 0
+
+----------------------------------
+
+33 pokolenie
+1110110 
+1110110 
+1110110 
+1110100 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.341157
+P: 0.060266
+P: 0.984126
+P: 0.367521
+P: 0.998952
+P: 0.869838
+P: 0.325433
+P: 0.627724
+0: 1
+1: 0
+2: 3
+3: 0
+4: 1
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.209165
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.743833
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.448296
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.152333
+Locus 6
+
+----------------------------------
+
+34 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1111110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.864109
+P: 0.245986
+P: 0.310595
+P: 0.389648
+P: 0.678109
+P: 0.086439
+P: 0.741013
+P: 0.009184
+0: 2
+1: 1
+2: 2
+3: 0
+4: 0
+5: 2
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.160676
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.334916
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.598323
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.149842
+Locus 2
+
+----------------------------------
+
+35 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.301974
+P: 0.165521
+P: 0.739778
+P: 0.704415
+P: 0.253156
+P: 0.100780
+P: 0.709098
+P: 0.916271
+0: 1
+1: 2
+2: 1
+3: 0
+4: 0
+5: 3
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.053253
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.525069
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.921810
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.780909
+Locus 4
+
+----------------------------------
+
+36 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.336895
+P: 0.102966
+P: 0.759232
+P: 0.849999
+P: 0.657270
+P: 0.956117
+P: 0.599194
+P: 0.479780
+0: 1
+1: 0
+2: 1
+3: 1
+4: 1
+5: 2
+6: 1
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.978892
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.100092
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.855484
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.118507
+Locus 1
+
+----------------------------------
+
+37 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.680120
+P: 0.181406
+P: 0.933589
+P: 0.858246
+P: 0.769167
+P: 0.851050
+P: 0.736625
+P: 0.415009
+0: 0
+1: 1
+2: 0
+3: 1
+4: 0
+5: 3
+6: 2
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.901193
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.709544
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.949329
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.159228
+Locus 6
+
+----------------------------------
+
+38 pokolenie
+1110110 
+0110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.102525
+P: 0.243869
+P: 0.774924
+P: 0.997319
+P: 0.400517
+P: 0.761395
+P: 0.052232
+P: 0.074409
+0: 3
+1: 1
+2: 0
+3: 1
+4: 0
+5: 2
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 0110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.486765
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.605423
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.804129
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.265412
+Locus 3
+
+----------------------------------
+
+39 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0110110 
+Suma: 200784
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.022289
+P: 0.813108
+P: 0.917935
+P: 0.860516
+P: 0.382419
+P: 0.072007
+P: 0.827820
+P: 0.293160
+0: 1
+1: 1
+2: 1
+3: 0
+4: 0
+5: 3
+6: 1
+7: 1
+Nowa populacja:
+1110110 0110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.595860
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.165556
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.307080
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.796702
+Locus 6
+
+----------------------------------
+
+40 pokolenie
+1110110 
+0110110 
+1110110 
+1111110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 200784
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.625825
+P: 0.751616
+P: 0.485767
+P: 0.979196
+P: 0.010703
+P: 0.409832
+P: 0.019088
+P: 0.252162
+0: 0
+1: 2
+2: 1
+3: 1
+4: 1
+5: 1
+6: 1
+7: 1
+Nowa populacja:
+1110110 1110110 0110110 1111110 0110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.901768
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.208265
+Locus 4
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.111730
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.701522
+Locus 0
+
+----------------------------------
+
+41 pokolenie
+1110110 
+1110110 
+0110110 
+1101110 
+0110110 
+1110110 
+1110110 
+1110110 
+Suma: 182672
+Kolo ruletki:
+0.030000 0.060000 0.210000 0.360000 0.510000 0.660000 0.810000 0.980000 
+Wektor selekcji:
+P: 0.789228
+P: 0.211509
+P: 0.775352
+P: 0.594094
+P: 0.742564
+P: 0.466248
+P: 0.895402
+P: 0.986619
+0: 0
+1: 1
+2: 0
+3: 2
+4: 0
+5: 1
+6: 1
+7: 3
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1101110 1110110 1101110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.801282
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.100017
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.239842
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.357117
+Locus 3
+
+----------------------------------
+
+42 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1111110 
+1100110 
+1111110 
+1100110 
+Suma: 216528
+Kolo ruletki:
+0.100000 0.200000 0.330000 0.460000 0.590000 0.720000 0.870000 1.020000 
+Wektor selekcji:
+P: 0.969455
+P: 0.029943
+P: 0.415452
+P: 0.678773
+P: 0.684701
+P: 0.398417
+P: 0.405956
+P: 0.217013
+0: 1
+1: 3
+2: 0
+3: 2
+4: 0
+5: 1
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1100110 1110110 1111110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.037789
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.840375
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.229040
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.621915
+Locus 6
+
+----------------------------------
+
+43 pokolenie
+1110110 
+1110110 
+1111110 
+1110110 
+1110110 
+1100110 
+1100110 
+1111110 
+Suma: 219664
+Kolo ruletki:
+0.090000 0.220000 0.350000 0.480000 0.610000 0.740000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.305464
+P: 0.706056
+P: 0.399166
+P: 0.972342
+P: 0.593931
+P: 0.577273
+P: 0.320626
+P: 0.031357
+0: 0
+1: 2
+2: 1
+3: 2
+4: 1
+5: 1
+6: 0
+7: 1
+Nowa populacja:
+1110110 1111110 1110110 1110110 1111110 1110110 1100110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.706614
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.938722
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.172420
+Locus 3
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.824747
+
+----------------------------------
+
+44 pokolenie
+1111110 
+1110110 
+1100110 
+1010110 
+1110010 
+1111110 
+1100110 
+1110110 
+Suma: 223568
+Kolo ruletki:
+0.090000 0.210000 0.330000 0.450000 0.570000 0.690000 0.830000 0.970000 
+Wektor selekcji:
+P: 0.224816
+P: 0.846064
+P: 0.765215
+P: 0.097880
+P: 0.469188
+P: 0.612640
+P: 0.124315
+P: 0.428524
+0: 1
+1: 2
+2: 1
+3: 1
+4: 1
+5: 1
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110010 1111110 1111110 1010110 1100110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.241760
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.631005
+Locus 0
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.263079
+Locus 0
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.718747
+Locus 1
+
+----------------------------------
+
+45 pokolenie
+1110110 
+1110110 
+1110010 
+1010110 
+1111110 
+1111010 
+1100110 
+1010110 
+Suma: 208656
+Kolo ruletki:
+0.070000 0.170000 0.290000 0.420000 0.550000 0.680000 0.830000 0.980000 
+Wektor selekcji:
+P: 0.591504
+P: 0.535426
+P: 0.431336
+P: 0.350660
+P: 0.359843
+P: 0.945103
+P: 0.179504
+P: 0.331364
+0: 3
+1: 2
+2: 1
+3: 1
+4: 0
+5: 1
+6: 0
+7: 0
+Nowa populacja:
+1110110 1010110 1111010 1110110 1110110 1110010 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.893555
+Tymaczasowy osobnik: 1111010
+Krzyzowanie: 0.951565
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.189583
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.340163
+Locus 2
+
+----------------------------------
+
+46 pokolenie
+1110110 
+0010110 
+1111010 
+1110110 
+1110010 
+0110110 
+1110110 
+1111110 
+Suma: 224848
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.902722
+P: 0.075694
+P: 0.484132
+P: 0.565123
+P: 0.135609
+P: 0.106574
+P: 0.355055
+P: 0.098487
+0: 3
+1: 1
+2: 1
+3: 1
+4: 0
+5: 2
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1111010 0110110 1110110 0010110 0110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.347720
+Locus 4
+Tymaczasowy osobnik: 1111010
+Krzyzowanie: 0.885036
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.800440
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.833061
+
+----------------------------------
+
+47 pokolenie
+1110110 
+1110110 
+1111010 
+0110110 
+1110110 
+0010110 
+0110110 
+1110110 
+Suma: 226704
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.130732
+P: 0.249430
+P: 0.671440
+P: 0.855736
+P: 0.465588
+P: 0.338669
+P: 0.415215
+P: 0.785707
+0: 0
+1: 1
+2: 1
+3: 2
+4: 2
+5: 0
+6: 1
+7: 1
+Nowa populacja:
+1110110 1111010 1110110 1110110 0110110 0110110 0110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.844647
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.752847
+Locus 2
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.506775
+Locus 4
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.526452
+Locus 0
+
+----------------------------------
+
+48 pokolenie
+0110110 
+1111010 
+1110110 
+1010110 
+0110110 
+0110110 
+1110110 
+0110110 
+Suma: 160656
+Kolo ruletki:
+0.040000 0.080000 0.120000 0.290000 0.460000 0.630000 0.800000 1.000000 
+Wektor selekcji:
+P: 0.408362
+P: 0.774283
+P: 0.723479
+P: 0.165074
+P: 0.013491
+P: 0.575723
+P: 0.639105
+P: 0.554734
+0: 1
+1: 0
+2: 1
+3: 2
+4: 1
+5: 0
+6: 3
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1010110 0110110 0110110 1010110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.918567
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.775783
+Locus 4
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.076666
+Locus 1
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.116140
+Locus 1
+
+----------------------------------
+
+49 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0010110 
+0010100 
+1110110 
+Suma: 169040
+Kolo ruletki:
+0.010000 0.020000 0.180000 0.340000 0.500000 0.660000 0.820000 0.980000 
+Wektor selekcji:
+P: 0.221588
+P: 0.754429
+P: 0.366428
+P: 0.600800
+P: 0.810704
+P: 0.881446
+P: 0.807722
+P: 0.193573
+0: 0
+1: 2
+2: 1
+3: 1
+4: 3
+5: 0
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.318596
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.350233
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.674737
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.117130
+Locus 0
+
+----------------------------------
+
+50 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.419277
+P: 0.452189
+P: 0.307253
+P: 0.997927
+P: 0.944067
+P: 0.528585
+P: 0.846335
+P: 0.786635
+0: 0
+1: 0
+2: 1
+3: 2
+4: 1
+5: 0
+6: 2
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.112268
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.896104
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.604888
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.078049
+Locus 4
+
+----------------------------------
+
+51 pokolenie
+1110110 
+1110110 
+1110110 
+1100110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.252403
+P: 0.521996
+P: 0.090727
+P: 0.661109
+P: 0.293442
+P: 0.841230
+P: 0.982689
+P: 0.009642
+0: 2
+1: 1
+2: 1
+3: 0
+4: 1
+5: 1
+6: 1
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.365897
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.160443
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.172189
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.355423
+Locus 5
+
+----------------------------------
+
+52 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.982531
+P: 0.457185
+P: 0.965145
+P: 0.285020
+P: 0.593553
+P: 0.428244
+P: 0.748419
+P: 0.555964
+0: 0
+1: 0
+2: 1
+3: 2
+4: 2
+5: 1
+6: 0
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.179487
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.286054
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.544228
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.353308
+Locus 3
+
+----------------------------------
+
+53 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.757957
+P: 0.349926
+P: 0.837541
+P: 0.226322
+P: 0.201370
+P: 0.854939
+P: 0.467624
+P: 0.234146
+0: 0
+1: 3
+2: 1
+3: 1
+4: 0
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.796326
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.890141
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.450358
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.374939
+Locus 2
+
+----------------------------------
+
+54 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.712355
+P: 0.983711
+P: 0.845757
+P: 0.250829
+P: 0.587685
+P: 0.573905
+P: 0.937573
+P: 0.492892
+0: 0
+1: 1
+2: 0
+3: 1
+4: 2
+5: 1
+6: 1
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.671958
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.104146
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.509483
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.230052
+Locus 3
+
+----------------------------------
+
+55 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.889469
+P: 0.130502
+P: 0.012653
+P: 0.747663
+P: 0.958493
+P: 0.866531
+P: 0.898085
+P: 0.832868
+0: 1
+1: 1
+2: 0
+3: 0
+4: 0
+5: 1
+6: 4
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.233226
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.612916
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.962776
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.299248
+Locus 4
+
+----------------------------------
+
+56 pokolenie
+1110100 
+1110110 
+0110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.864880
+P: 0.335495
+P: 0.198349
+P: 0.898720
+P: 0.547474
+P: 0.861242
+P: 0.059938
+P: 0.886485
+0: 1
+1: 1
+2: 1
+3: 0
+4: 1
+5: 0
+6: 4
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110100 1110110 1110110 0110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.007722
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.413773
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.672425
+Locus 2
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.436547
+Locus 0
+
+----------------------------------
+
+57 pokolenie
+1110110 
+1110110 
+1110100 
+1110110 
+1110110 
+1110110 
+1110110 
+0110110 
+Suma: 199848
+Kolo ruletki:
+0.030000 0.160000 0.300000 0.440000 0.580000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.580667
+P: 0.432647
+P: 0.971613
+P: 0.059317
+P: 0.588241
+P: 0.434832
+P: 0.279932
+P: 0.323368
+0: 1
+1: 3
+2: 1
+3: 0
+4: 2
+5: 0
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110100 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.306608
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.644776
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.869079
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.515924
+Locus 5
+
+----------------------------------
+
+58 pokolenie
+1110110 
+1110100 
+1110110 
+1110110 
+1110110 
+1110100 
+1110110 
+1110110 
+Suma: 221864
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.413054
+P: 0.015483
+P: 0.198736
+P: 0.552266
+P: 0.668926
+P: 0.159699
+P: 0.580581
+P: 0.991585
+0: 2
+1: 0
+2: 1
+3: 2
+4: 1
+5: 1
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110100 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.506340
+Locus 3
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.609943
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.203969
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.281464
+Locus 1
+
+----------------------------------
+
+59 pokolenie
+1110110 
+1110110 
+1110110 
+1110100 
+1100110 
+1110110 
+1110110 
+1110110 
+Suma: 221864
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.114235
+P: 0.469763
+P: 0.623176
+P: 0.203468
+P: 0.951791
+P: 0.795311
+P: 0.846301
+P: 0.325027
+0: 1
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 2
+7: 1
+Nowa populacja:
+1110110 1110110 1100110 1110110 1110100 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.903570
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.569347
+Locus 0
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.128973
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.067523
+Locus 0
+
+----------------------------------
+
+60 pokolenie
+1110110 
+1110110 
+1110110 
+1100110 
+1110110 
+1110100 
+1110110 
+1110110 
+Suma: 214824
+Kolo ruletki:
+0.100000 0.230000 0.360000 0.490000 0.620000 0.750000 0.880000 1.010000 
+Wektor selekcji:
+P: 0.086746
+P: 0.384032
+P: 0.895271
+P: 0.514843
+P: 0.204647
+P: 0.011398
+P: 0.605575
+P: 0.882798
+0: 1
+1: 0
+2: 1
+3: 2
+4: 2
+5: 0
+6: 0
+7: 2
+Nowa populacja:
+1110110 1110110 1100110 1110110 1110110 1100110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.696444
+Locus 5
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.396515
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.385738
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.816596
+
+----------------------------------
+
+61 pokolenie
+1110110 
+1110110 
+1100110 
+1110110 
+1100110 
+1110110 
+1110110 
+1110111 
+Suma: 208720
+Kolo ruletki:
+0.100000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.980000 
+Wektor selekcji:
+P: 0.466651
+P: 0.947805
+P: 0.048365
+P: 0.080280
+P: 0.214738
+P: 0.365280
+P: 0.849089
+P: 0.004048
+0: 1
+1: 1
+2: 3
+3: 1
+4: 0
+5: 0
+6: 1
+7: 1
+Nowa populacja:
+1110111 1110110 1110110 1100110 1100110 1110110 1110110 1100110 
+Tymaczasowy osobnik: 1110111
+Krzyzowanie: 0.444554
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.553687
+Locus 1
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.850000
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.873914
+
+----------------------------------
+
+62 pokolenie
+1110110 
+1110111 
+1100110 
+1110110 
+1100110 
+1110110 
+1110110 
+1101110 
+Suma: 202154
+Kolo ruletki:
+0.100000 0.200000 0.300000 0.440000 0.580000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.567300
+P: 0.242750
+P: 0.542549
+P: 0.410958
+P: 0.335271
+P: 0.232648
+P: 0.916757
+P: 0.168945
+0: 2
+1: 2
+2: 0
+3: 0
+4: 1
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1101110 1110111 1100110 1110110 1110110 1101110 1110110 1110111 
+Tymaczasowy osobnik: 1101110
+Krzyzowanie: 0.795984
+Locus 6
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.321664
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.792099
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.933537
+
+----------------------------------
+
+63 pokolenie
+1101111 
+1110110 
+1100110 
+1110110 
+1101110 
+1110110 
+1110110 
+1110111 
+Suma: 209380
+Kolo ruletki:
+0.100000 0.220000 0.340000 0.470000 0.600000 0.730000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.357920
+P: 0.825641
+P: 0.295576
+P: 0.018416
+P: 0.681606
+P: 0.824483
+P: 0.514282
+P: 0.177675
+0: 1
+1: 1
+2: 1
+3: 1
+4: 1
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1101110 1100110 1110110 1110110 1110110 1101111 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.309849
+Locus 6
+Tymaczasowy osobnik: 1101110
+Krzyzowanie: 0.883568
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.582211
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.009877
+Locus 0
+
+----------------------------------
+
+64 pokolenie
+1110110 
+1110110 
+1101110 
+1100110 
+1110110 
+1110110 
+1101111 
+1110110 
+Suma: 208906
+Kolo ruletki:
+0.100000 0.220000 0.340000 0.470000 0.600000 0.730000 0.860000 0.990000 
+Wektor selekcji:
+P: 0.499323
+P: 0.903834
+P: 0.873536
+P: 0.548568
+P: 0.940915
+P: 0.509579
+P: 0.619080
+P: 0.649952
+0: 0
+1: 3
+2: 0
+3: 0
+4: 2
+5: 0
+6: 0
+7: 3
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.152968
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.988737
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.044402
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.115043
+Locus 4
+
+----------------------------------
+
+65 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.704761
+P: 0.891730
+P: 0.353753
+P: 0.016428
+P: 0.799211
+P: 0.020541
+P: 0.879558
+P: 0.795889
+0: 2
+1: 0
+2: 1
+3: 0
+4: 0
+5: 1
+6: 4
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.338366
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.405140
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.224013
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.653219
+Locus 4
+
+----------------------------------
+
+66 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.356621
+P: 0.042107
+P: 0.444134
+P: 0.249710
+P: 0.029629
+P: 0.786328
+P: 0.290283
+P: 0.077084
+0: 3
+1: 1
+2: 2
+3: 1
+4: 0
+5: 0
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.290763
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.473021
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.800939
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.101957
+Locus 1
+
+----------------------------------
+
+67 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.860006
+P: 0.186897
+P: 0.535474
+P: 0.310188
+P: 0.927852
+P: 0.471333
+P: 0.886102
+P: 0.844577
+0: 0
+1: 1
+2: 1
+3: 1
+4: 1
+5: 0
+6: 3
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.992538
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.423221
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.037902
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.745457
+Locus 3
+
+----------------------------------
+
+68 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110100 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.108899
+P: 0.664800
+P: 0.234501
+P: 0.316512
+P: 0.339446
+P: 0.734808
+P: 0.190547
+P: 0.863916
+0: 1
+1: 2
+2: 2
+3: 0
+4: 0
+5: 2
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110100 1110110 1110110 1110110 1110110 1110100 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.771882
+Locus 2
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.726097
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.537745
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.492448
+Locus 1
+
+----------------------------------
+
+69 pokolenie
+1110110 
+1110110 
+1110110 
+1110100 
+1110110 
+1110110 
+1110100 
+1110110 
+Suma: 220928
+Kolo ruletki:
+0.120000 0.240000 0.370000 0.500000 0.630000 0.760000 0.890000 1.020000 
+Wektor selekcji:
+P: 0.597543
+P: 0.741807
+P: 0.749717
+P: 0.672659
+P: 0.067572
+P: 0.672511
+P: 0.433322
+P: 0.398480
+0: 0
+1: 2
+2: 1
+3: 1
+4: 4
+5: 0
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1110100 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.001952
+Locus 5
+Tymaczasowy osobnik: 1110100
+Krzyzowanie: 0.975961
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.557293
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.399172
+Locus 0
+
+----------------------------------
+
+70 pokolenie
+1110110 
+1110110 
+1110101 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 221864
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.283125
+P: 0.906204
+P: 0.686309
+P: 0.439040
+P: 0.167833
+P: 0.589284
+P: 0.016318
+P: 0.479449
+0: 1
+1: 1
+2: 1
+3: 2
+4: 1
+5: 1
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110101 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.640680
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.528909
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.211381
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.204970
+Locus 5
+
+----------------------------------
+
+71 pokolenie
+1110101 
+1100110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222330
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.278240
+P: 0.203876
+P: 0.624927
+P: 0.907338
+P: 0.640459
+P: 0.732681
+P: 0.279054
+P: 0.693375
+0: 0
+1: 1
+2: 2
+3: 0
+4: 1
+5: 3
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1100110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.440597
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.215799
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.441256
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.542756
+Locus 5
+
+----------------------------------
+
+72 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0100110 
+1110110 
+1110110 
+Suma: 215760
+Kolo ruletki:
+0.100000 0.230000 0.360000 0.490000 0.620000 0.750000 0.880000 1.010000 
+Wektor selekcji:
+P: 0.991901
+P: 0.767147
+P: 0.992174
+P: 0.246399
+P: 0.806505
+P: 0.015025
+P: 0.121939
+P: 0.167082
+0: 2
+1: 1
+2: 0
+3: 0
+4: 0
+5: 1
+6: 2
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 0100110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.241607
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.682673
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.439396
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.261149
+Locus 3
+
+----------------------------------
+
+73 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1100110 
+0110110 
+1110110 
+1110110 
+Suma: 193744
+Kolo ruletki:
+0.030000 0.140000 0.280000 0.420000 0.560000 0.700000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.392480
+P: 0.456197
+P: 0.079807
+P: 0.118954
+P: 0.515466
+P: 0.007045
+P: 0.784099
+P: 0.022837
+0: 0
+1: 1
+2: 2
+3: 0
+4: 2
+5: 2
+6: 1
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 0110110 0110110 1110110 1100110 1100110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.830216
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.132495
+Locus 6
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.889120
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.181147
+Locus 0
+
+----------------------------------
+
+74 pokolenie
+1110110 
+1110110 
+1110110 
+0110110 
+0110110 
+1110110 
+1100111 
+1100110 
+Suma: 164688
+Kolo ruletki:
+0.040000 0.080000 0.210000 0.340000 0.510000 0.680000 0.850000 1.020000 
+Wektor selekcji:
+P: 0.489087
+P: 0.519735
+P: 0.476744
+P: 0.187964
+P: 0.720097
+P: 0.989334
+P: 0.232438
+P: 0.749257
+0: 2
+1: 1
+2: 2
+3: 0
+4: 0
+5: 1
+6: 1
+7: 1
+Nowa populacja:
+1110110 1100111 1110110 1110110 1110110 1100110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.666016
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.740705
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.235735
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.132082
+Locus 3
+
+----------------------------------
+
+75 pokolenie
+1110111 
+1110110 
+1110110 
+1110110 
+1100110 
+1110110 
+1010110 
+1110110 
+Suma: 209194
+Kolo ruletki:
+0.100000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.990000 
+Wektor selekcji:
+P: 0.229253
+P: 0.556031
+P: 0.267346
+P: 0.507496
+P: 0.078171
+P: 0.166273
+P: 0.328419
+P: 0.016091
+0: 0
+1: 2
+2: 3
+3: 0
+4: 1
+5: 2
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1100110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.321848
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.645192
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.332769
+Locus 4
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.440232
+Locus 0
+
+----------------------------------
+
+76 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+0110110 
+1100110 
+1110110 
+Suma: 215760
+Kolo ruletki:
+0.100000 0.230000 0.360000 0.490000 0.620000 0.750000 0.880000 1.010000 
+Wektor selekcji:
+P: 0.819136
+P: 0.514150
+P: 0.877000
+P: 0.965523
+P: 0.164584
+P: 0.898597
+P: 0.524856
+P: 0.449963
+0: 1
+1: 0
+2: 1
+3: 2
+4: 0
+5: 2
+6: 0
+7: 2
+Nowa populacja:
+1110110 1110110 0110110 0110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.815054
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.432878
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.077456
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.825166
+
+----------------------------------
+
+77 pokolenie
+1110110 
+1110110 
+0110110 
+0100110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 178768
+Kolo ruletki:
+0.030000 0.060000 0.220000 0.380000 0.540000 0.700000 0.860000 1.020000 
+Wektor selekcji:
+P: 0.822275
+P: 0.551033
+P: 0.942782
+P: 0.894697
+P: 0.241526
+P: 0.311594
+P: 0.790013
+P: 0.788819
+0: 0
+1: 2
+2: 0
+3: 0
+4: 0
+5: 1
+6: 3
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.649370
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.890718
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.675608
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.167106
+Locus 3
+
+----------------------------------
+
+78 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.999790
+P: 0.461642
+P: 0.575860
+P: 0.322980
+P: 0.883907
+P: 0.274692
+P: 0.437729
+P: 0.533374
+0: 0
+1: 0
+2: 2
+3: 2
+4: 2
+5: 0
+6: 1
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.648533
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.774197
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.418949
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.631819
+Locus 5
+
+----------------------------------
+
+79 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.270980
+P: 0.007206
+P: 0.549749
+P: 0.618067
+P: 0.577681
+P: 0.881778
+P: 0.477142
+P: 0.891220
+0: 1
+1: 0
+2: 1
+3: 1
+4: 3
+5: 0
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.952744
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.634443
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.930791
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.657321
+Locus 5
+
+----------------------------------
+
+80 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.932504
+P: 0.612902
+P: 0.581742
+P: 0.755908
+P: 0.097802
+P: 0.224997
+P: 0.324401
+P: 0.727352
+0: 1
+1: 1
+2: 1
+3: 0
+4: 2
+5: 2
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.121618
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.904514
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.751503
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.565273
+Locus 1
+
+----------------------------------
+
+81 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.262748
+P: 0.163667
+P: 0.952150
+P: 0.120827
+P: 0.129379
+P: 0.688796
+P: 0.255009
+P: 0.664809
+0: 2
+1: 2
+2: 1
+3: 0
+4: 0
+5: 2
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.039483
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.774384
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.123131
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.874872
+
+----------------------------------
+
+82 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.158871
+P: 0.630131
+P: 0.351867
+P: 0.376047
+P: 0.728259
+P: 0.337257
+P: 0.423363
+P: 0.421031
+0: 0
+1: 1
+2: 3
+3: 2
+4: 1
+5: 1
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.884684
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.144049
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.659623
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.385596
+Locus 4
+
+----------------------------------
+
+83 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1100110 
+1110110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.987013
+P: 0.293834
+P: 0.593667
+P: 0.942539
+P: 0.260375
+P: 0.039701
+P: 0.786410
+P: 0.868445
+0: 1
+1: 0
+2: 2
+3: 0
+4: 1
+5: 0
+6: 2
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.806208
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.728487
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.785244
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.626689
+Locus 4
+
+----------------------------------
+
+84 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1100110 
+1110110 
+Suma: 222800
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.700945
+P: 0.572626
+P: 0.110077
+P: 0.719966
+P: 0.627491
+P: 0.933090
+P: 0.196247
+P: 0.780739
+0: 1
+1: 1
+2: 0
+3: 0
+4: 2
+5: 2
+6: 1
+7: 1
+Nowa populacja:
+1100110 1110110 1110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1100110
+Krzyzowanie: 0.375352
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.768887
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.877773
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.378059
+Locus 0
+
+----------------------------------
+
+85 pokolenie
+1100110 
+1110110 
+1110110 
+1110110 
+0110110 
+1110110 
+1110110 
+1110110 
+Suma: 215760
+Kolo ruletki:
+0.100000 0.230000 0.360000 0.490000 0.620000 0.750000 0.880000 1.010000 
+Wektor selekcji:
+P: 0.347215
+P: 0.253835
+P: 0.923750
+P: 0.481777
+P: 0.396266
+P: 0.309580
+P: 0.491015
+P: 0.479179
+0: 0
+1: 0
+2: 3
+3: 3
+4: 1
+5: 0
+6: 0
+7: 1
+Nowa populacja:
+1110110 1110110 0110110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.411178
+Locus 0
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.215927
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.249911
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.220557
+Locus 6
+
+----------------------------------
+
+86 pokolenie
+1110110 
+1110110 
+0110110 
+1110110 
+1110110 
+1110110 
+1111110 
+1110110 
+Suma: 200784
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.432542
+P: 0.676672
+P: 0.340415
+P: 0.695753
+P: 0.559960
+P: 0.851729
+P: 0.769027
+P: 0.682657
+0: 0
+1: 0
+2: 0
+3: 2
+4: 1
+5: 3
+6: 2
+7: 0
+Nowa populacja:
+1110110 1110110 1111110 1110110 1111110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.316313
+Locus 6
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.940321
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.684720
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.446999
+Locus 3
+
+----------------------------------
+
+87 pokolenie
+1110110 
+1110110 
+1111110 
+1110110 
+1110110 
+1111110 
+1110110 
+1110110 
+Suma: 226704
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.840000 0.980000 
+Wektor selekcji:
+P: 0.142558
+P: 0.601226
+P: 0.981632
+P: 0.510795
+P: 0.044743
+P: 0.062110
+P: 0.974929
+P: 0.020643
+0: 3
+1: 1
+2: 0
+3: 0
+4: 1
+5: 2
+6: 1
+7: 0
+Nowa populacja:
+1110110 1111110 1111110 1110110 1110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.816674
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.104003
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.758423
+Locus 1
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.198497
+Locus 3
+
+----------------------------------
+
+88 pokolenie
+1110110 
+1111110 
+1111110 
+0110110 
+1110110 
+1110110 
+1110110 
+1110110 
+Suma: 230608
+Kolo ruletki:
+0.120000 0.240000 0.360000 0.480000 0.600000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.737758
+P: 0.225476
+P: 0.440750
+P: 0.551701
+P: 0.275312
+P: 0.859828
+P: 0.494308
+P: 0.603457
+0: 0
+1: 2
+2: 0
+3: 1
+4: 1
+5: 1
+6: 2
+7: 1
+Nowa populacja:
+1111110 1110110 1110110 1110110 0110110 1111110 1110110 1110110 
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.431282
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.132083
+Locus 5
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.421057
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.068112
+Locus 5
+
+----------------------------------
+
+89 pokolenie
+1110110 
+1111110 
+1110110 
+1110110 
+0110110 
+1111110 
+1110100 
+1110110 
+Suma: 208592
+Kolo ruletki:
+0.030000 0.160000 0.290000 0.420000 0.550000 0.680000 0.830000 0.980000 
+Wektor selekcji:
+P: 0.088723
+P: 0.027976
+P: 0.066654
+P: 0.135783
+P: 0.326313
+P: 0.056903
+P: 0.402496
+P: 0.089626
+0: 5
+1: 0
+2: 0
+3: 2
+4: 1
+5: 0
+6: 0
+7: 0
+Nowa populacja:
+1110110 1110110 1110110 1110110 0110110 1110110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.175590
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.726624
+Locus 2
+Tymaczasowy osobnik: 0110110
+Krzyzowanie: 0.051468
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.589685
+Locus 0
+
+----------------------------------
+
+90 pokolenie
+1110110 
+1110110 
+1110110 
+1010110 
+0110110 
+1110110 
+1110110 
+1110110 
+Suma: 200784
+Kolo ruletki:
+0.030000 0.170000 0.310000 0.450000 0.590000 0.730000 0.870000 1.010000 
+Wektor selekcji:
+P: 0.931968
+P: 0.935545
+P: 0.646996
+P: 0.740649
+P: 0.254331
+P: 0.378181
+P: 0.560181
+P: 0.624284
+0: 0
+1: 1
+2: 1
+3: 1
+4: 0
+5: 2
+6: 1
+7: 2
+Nowa populacja:
+1110110 1110110 1110110 1110110 1110110 1110110 1110110 1010110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.377753
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.037254
+Locus 2
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.872662
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.628014
+Locus 6
+
+----------------------------------
+
+91 pokolenie
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1110110 
+1010110 
+Suma: 209744
+Kolo ruletki:
+0.070000 0.200000 0.330000 0.460000 0.590000 0.720000 0.850000 0.980000 
+Wektor selekcji:
+P: 0.397086
+P: 0.136185
+P: 0.422398
+P: 0.008808
+P: 0.135744
+P: 0.967849
+P: 0.507015
+P: 0.054121
+0: 2
+1: 0
+2: 2
+3: 1
+4: 0
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1010110 1110110 1110110 1110110 1110110 1010110 1110110 1110110 
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.118814
+Locus 5
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.087569
+Locus 3
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.840362
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.530530
+Locus 0
+
+----------------------------------
+
+92 pokolenie
+1010110 
+1110110 
+1110110 
+1111110 
+1110110 
+1010110 
+1110110 
+1110110 
+Suma: 196688
+Kolo ruletki:
+0.080000 0.160000 0.300000 0.440000 0.580000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.223517
+P: 0.762664
+P: 0.163123
+P: 0.021952
+P: 0.230412
+P: 0.855751
+P: 0.081383
+P: 0.577240
+0: 1
+1: 3
+2: 0
+3: 1
+4: 0
+5: 1
+6: 2
+7: 0
+Nowa populacja:
+1110110 1010110 1111110 1110110 1110110 1010110 1110110 1110110 
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.231456
+Locus 4
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.745707
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.901807
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.801697
+
+----------------------------------
+
+93 pokolenie
+1010110 
+1010110 
+1110110 
+1111111 
+1110110 
+1010110 
+1110110 
+1110110 
+Suma: 200592
+Kolo ruletki:
+0.070000 0.140000 0.280000 0.420000 0.560000 0.700000 0.840000 1.000000 
+Wektor selekcji:
+P: 0.894675
+P: 0.249595
+P: 0.008730
+P: 0.927815
+P: 0.762781
+P: 0.682028
+P: 0.729208
+P: 0.932194
+0: 1
+1: 1
+2: 0
+3: 3
+4: 0
+5: 0
+6: 1
+7: 2
+Nowa populacja:
+1010110 1110110 1111111 1110110 1111111 1010110 1110110 1111111 
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.831792
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.711904
+Locus 0
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.226579
+Locus 6
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.703825
+Locus 2
+
+----------------------------------
+
+94 pokolenie
+1010110 
+1110110 
+1110010 
+1111111 
+1111110 
+1010111 
+1111111 
+1110110 
+Suma: 209758
+Kolo ruletki:
+0.070000 0.140000 0.270000 0.400000 0.530000 0.680000 0.830000 0.980000 
+Wektor selekcji:
+P: 0.950734
+P: 0.717541
+P: 0.936126
+P: 0.061920
+P: 0.878236
+P: 0.958073
+P: 0.254185
+P: 0.104752
+0: 1
+1: 1
+2: 0
+3: 0
+4: 1
+5: 1
+6: 4
+7: 0
+Nowa populacja:
+1010110 1110110 1111111 1010111 1111110 1111111 1111111 1111111 
+Tymaczasowy osobnik: 1010110
+Krzyzowanie: 0.808082
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.308607
+Locus 4
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.644320
+Locus 0
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.437120
+Locus 6
+
+----------------------------------
+
+95 pokolenie
+1010110 
+1110110 
+1111111 
+1010111 
+1111111 
+1111110 
+1111111 
+1111111 
+Suma: 218578
+Kolo ruletki:
+0.070000 0.140000 0.270000 0.420000 0.570000 0.720000 0.870000 1.020000 
+Wektor selekcji:
+P: 0.870591
+P: 0.844023
+P: 0.852802
+P: 0.926805
+P: 0.108485
+P: 0.208945
+P: 0.655963
+P: 0.747109
+0: 0
+1: 1
+2: 0
+3: 1
+4: 0
+5: 1
+6: 3
+7: 2
+Nowa populacja:
+1010111 1111111 1110110 1111111 1111111 1111110 1111111 1111111 
+Tymaczasowy osobnik: 1010111
+Krzyzowanie: 0.021073
+Locus 0
+Tymaczasowy osobnik: 1110110
+Krzyzowanie: 0.763325
+Locus 4
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.318305
+Locus 4
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.762644
+Locus 2
+
+----------------------------------
+
+96 pokolenie
+1111111 
+1010111 
+1110111 
+1111110 
+1111110 
+1111111 
+1111111 
+1111111 
+Suma: 236012
+Kolo ruletki:
+0.060000 0.180000 0.310000 0.440000 0.580000 0.720000 0.860000 1.000000 
+Wektor selekcji:
+P: 0.764482
+P: 0.681800
+P: 0.680046
+P: 0.798743
+P: 0.910425
+P: 0.492665
+P: 0.825170
+P: 0.202646
+0: 1
+1: 0
+2: 0
+3: 1
+4: 0
+5: 2
+6: 3
+7: 1
+Nowa populacja:
+1111111 1111111 1111110 1111111 1111111 1111111 1111111 1111111 
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.477841
+Locus 4
+Tymaczasowy osobnik: 1111110
+Krzyzowanie: 0.742494
+Locus 2
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.209301
+Locus 4
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.903231
+
+----------------------------------
+
+97 pokolenie
+1111111 
+1111110 
+1111111 
+1111110 
+1111111 
+1111111 
+1111111 
+1111111 
+Suma: 257574
+Kolo ruletki:
+0.120000 0.250000 0.380000 0.510000 0.640000 0.770000 0.900000 1.030000 
+Wektor selekcji:
+P: 0.720742
+P: 0.868047
+P: 0.642827
+P: 0.507599
+P: 0.690250
+P: 0.853741
+P: 0.628705
+P: 0.223282
+0: 1
+1: 0
+2: 1
+3: 0
+4: 1
+5: 3
+6: 2
+7: 0
+Nowa populacja:
+1111111 1111111 1111111 1111111 1111111 1111111 1111111 1111111 
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.744886
+Locus 1
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.554892
+Locus 2
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.347106
+Locus 4
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.793705
+Locus 0
+
+----------------------------------
+
+98 pokolenie
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+Suma: 258080
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.627559
+P: 0.820137
+P: 0.718680
+P: 0.133777
+P: 0.677087
+P: 0.197160
+P: 0.440113
+P: 0.711806
+0: 0
+1: 2
+2: 0
+3: 1
+4: 1
+5: 3
+6: 1
+7: 0
+Nowa populacja:
+1111111 1111111 1111111 1111111 1111111 1111111 1111111 1111111 
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.171603
+Locus 0
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.577399
+Locus 1
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.799387
+Locus 2
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.578619
+Locus 0
+
+----------------------------------
+
+99 pokolenie
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+1111111 
+Suma: 258080
+Kolo ruletki:
+0.130000 0.260000 0.390000 0.520000 0.650000 0.780000 0.910000 1.040000 
+Wektor selekcji:
+P: 0.114748
+P: 0.858040
+P: 0.416985
+P: 0.536902
+P: 0.146122
+P: 0.023834
+P: 0.885539
+P: 0.044030
+0: 3
+1: 1
+2: 0
+3: 1
+4: 1
+5: 0
+6: 2
+7: 0
+Nowa populacja:
+1111111 1111111 1111111 1111111 1111111 1111111 1111111 1111111 
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.248364
+Locus 0
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.009564
+Locus 1
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.650664
+Locus 5
+Tymaczasowy osobnik: 1111111
+Krzyzowanie: 0.080852
+Locus 6

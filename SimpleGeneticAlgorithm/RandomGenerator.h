@@ -15,6 +15,7 @@ public:
 
    ~RandomGenerator();
    static RandomGenerator& getInstance(void);
+   std::mt19937& getGenerator(void);
    double getDouble(double min, double max);
    int getInteger(int min, int max);
 

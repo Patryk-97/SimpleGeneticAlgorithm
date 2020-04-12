@@ -25,3 +25,8 @@ int RandomGenerator::getInteger(int min, int max)
 {
    return std::uniform_int_distribution<>(min, max)(this->generator);
 }
+
+std::mt19937& RandomGenerator::getGenerator(void)
+{
+   return this->generator;
+}

@@ -14,7 +14,7 @@ struct Osobnik
    Osobnik()
    {
       memset(this->genotyp, '0', iloscGenow);
-      this->ocena = 0;
+      this->przystosowanie = 0;
       this->wskaznikPrzystosowania = 0.;
       RandomGenerator& randomGenerator = RandomGenerator::getInstance();
       for (size_t i = 0; i < iloscGenow; i++)
@@ -24,13 +24,24 @@ struct Osobnik
       this->obliczFenotyp();
    }
 
+   Osobnik(const Osobnik<iloscGenow>& osobnik)
+   {
+      if (this != &osobnik)
+      {
+         this->fenotyp = osobnik.fenotyp;
+         memcpy(this->genotyp, osobnik.genotyp, iloscGenow);
+         this->przystosowanie = osobnik.przystosowanie;
+         this->wskaznikPrzystosowania = osobnik.wskaznikPrzystosowania;
+      }
+   }
+
    Osobnik(const Osobnik<iloscGenow>*& osobnik)
    {
       if (this != osobnik)
       {
          this->fenotyp = osobnik->fenotyp;
          memcpy(this->genotyp, osobnik->genotyp, iloscGenow);
-         this->ocena = osobnik->ocena;
+         this->przystosowanie = osobnik->przystosowanie;
          this->wskaznikPrzystosowania = osobnik->wskaznikPrzystosowania;
       }
    }
@@ -41,9 +52,21 @@ struct Osobnik
       {
          this->fenotyp = osobnik->fenotyp;
          memcpy(this->genotyp, osobnik->genotyp, iloscGenow);
-         this->ocena = osobnik->ocena;
+         this->przystosowanie = osobnik->przystosowanie;
          this->wskaznikPrzystosowania = osobnik->wskaznikPrzystosowania;
       }
+   }
+
+   Osobnik& operator= (const Osobnik<iloscGenow>& osobnik)
+   {
+      if (this != &osobnik)
+      {
+         this->fenotyp = osobnik.fenotyp;
+         memcpy(this->genotyp, osobnik.genotyp, iloscGenow);
+         this->przystosowanie = osobnik.przystosowanie;
+         this->wskaznikPrzystosowania = osobnik.wskaznikPrzystosowania;
+      }
+      return *this;
    }
 
    Osobnik& operator= (const Osobnik<iloscGenow>*& osobnik)
@@ -52,7 +75,7 @@ struct Osobnik
       {
          this->fenotyp = osobnik->fenotyp;
          memcpy(this->genotyp, osobnik->genotyp, iloscGenow);
-         this->ocena = osobnik->ocena;
+         this->przystosowanie = osobnik->przystosowanie;
          this->wskaznikPrzystosowania = osobnik->wskaznikPrzystosowania;
       }
       return *this;
@@ -64,7 +87,7 @@ struct Osobnik
       {
          this->fenotyp = osobnik->fenotyp;
          memcpy(this->genotyp, osobnik->genotyp, iloscGenow);
-         this->ocena = osobnik->ocena;
+         this->przystosowanie = osobnik->przystosowanie;
          this->wskaznikPrzystosowania = osobnik->wskaznikPrzystosowania;
       }
       return *this;
@@ -98,7 +121,7 @@ struct Osobnik
 
    char genotyp[iloscGenow];
    size_t fenotyp;
-   size_t ocena;
+   size_t przystosowanie;
    double wskaznikPrzystosowania;
 };
 
