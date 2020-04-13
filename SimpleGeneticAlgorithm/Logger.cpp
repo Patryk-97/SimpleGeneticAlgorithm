@@ -14,7 +14,7 @@ void Logger::writeln(const std::string& text)
 {
    if (true == this->file.good())
    {
-      this->file << text << "\r\n";
+      this->file << text << "\n";
    }
 }
 
